@@ -39,9 +39,9 @@ Edit
 
 ## 📈 Dashboard Preview
 
-> (Add a screenshot from your Power BI dashboard here)
 
----
+---![Screenshot 2025-04-04 175924](https://github.com/user-attachments/assets/763da91d-4c70-4afa-9b74-78329a19aba5)
+
 
 ## 🚀 How to Run
 
